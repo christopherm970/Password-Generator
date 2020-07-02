@@ -6,5 +6,8 @@ Application to make a random password using the user's preferences between 8-128
 ### Technology Used
 HTML, CSS, and Javascript.
 
+### Link to application
+https://christopherm970.github.io/Password-Generator/
+
 ### Errors
-None known but did not commit often enought to github to show progress of application design.
+None known but did not commit often enough to github to show progress of application design.
